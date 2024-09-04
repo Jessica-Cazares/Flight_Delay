@@ -9,7 +9,7 @@ Conjunto de datos sobre cancelaciones y retrasos de vuelos de aerolíneas de ene
 - [Resultados y Conclusiones](#Resultados-y-Conclusiones)
 - [Herramientas](#Herramientas)
 - [Lenguajes](#Lenguajes)
-- [Ficha técnica](/Ficha_técnica/README.md)
+- [Ficha Técnica](/Ficha_Técnica/README.md)
 - [Google Colab](/Google_Colab/README.md)
 - [Dashboard](/Dashboard/README.md)
 - [Presentación](/Presentación/README.md)
