@@ -165,7 +165,7 @@ Analizar y predecir los retrasos de vuelos mediante técnicas de análisis de da
 * **Pago Pago, TT (PPG) y Clarksburg/Fairmont, WV (CKB):** Estos aeropuertos tienen los riesgos relativos más altos, de 2.52 y 2.31 respectivamente. Los vuelos desde estos aeropuertos tienen más del doble de probabilidad de retrasarse en comparación con otros.
 * **Lincoln, NE (LNK) y Niagara Falls, NY (IAG):** Tienen un riesgo relativo alto, alrededor de 1.98, lo que sugiere que estos aeropuertos enfrentan problemas similares con la puntualidad.
 
-Para más detalles sobre las conclusiones y recomendaciones, te invito a revisar este documento: [Presentación](/Presentación/Presentacion).
+Para más detalles sobre las conclusiones y recomendaciones, te invito a revisar este documento: [Presentación](/Presentación/Presentacion.pdf).
 
 ## Herramientas
 
